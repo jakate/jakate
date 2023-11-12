@@ -5,6 +5,8 @@ I’m a fullstack developer with over 15 years of experience. I’ve worked over
 
 I’m a creative developer by heart and I love learning new skills.
 
+[My website](https://jakate.com/)
+
 <!--
 **jakate/jakate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
