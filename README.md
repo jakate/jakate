@@ -1,5 +1,5 @@
 ### 🏂 Jaakko Tepponen
-**`Creative Developer`**
+**`Fullstack Developer`**
 
 I’m a fullstack developer with over 15 years of experience. I’ve worked over 10 years in a creative agency so I’ve seen a wide range of clients, industries and technologies. I have strong roots in frontend development and that’s where I feel most at home.
 
